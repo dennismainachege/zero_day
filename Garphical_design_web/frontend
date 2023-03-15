@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Drop down menu</title>
+        <link rel="stylesheet" href="mastingo.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+        
+    </head>
+    <body>
+        <div class = "menu-bar">
+            <ul>
+                <li class="active"><a href="#"><i class="fa fa-home"></i>home</a></li>
+                <li class="active"><a href="#"><i class="fa fa-user"></i>about us
+                <div class = "sub-menu1">
+                    <ul>
+                        <li>Mission</li>
+                        <li>Vision</li>
+                        <li>Team</li>
+
+                    
+
+                    </a>
+                    </li>
+                    </ul>
+                 </div>
+                
+                <li class="active"><a href="#"><i class="fa fa-user"></i>clients
+                    <div class = "sub-menu1">
+                    <ul>
+                        <li>Individuals</li>
+                        <li>Govermental Organisations</li>
+                        <li>NGOss</li>
+
+                    
+
+                    </a>
+                    </li>
+                    </ul>
+                 </div></a></li>
+                <li class="active"><a href="#"><i class="fa fa-clone"></i>services
+                    <div class = "sub-menu1">
+                        <ul>
+                            <li class="hover-me">Web-Design & development<i class="fa fa-angle-right"></i>
+                                <div class = "sub-menu2">
+                                    <Ul>
+                                        <li><a href="#">simple</a></li>
+                                        <li><a href="#">complex</a></li>
+                                        
+                                    </Ul>
+                            </li>
+                            <li class="hover">Mobile App development<i class="fa fa-angle-right"></i>
+                                <div class = "sub-menu2">
+                                    <Ul>
+                                        <li><a href="#">Anroid</a></li>
+                                        <li><a href="#">Apple</a></li>
+                                        <li><a href="#">Microsoft</a></li>
+                                        
+                                    </Ul>
+                            </li>
+                            <li class="hover-me">Marketing<i class="fa fa-angle-right"></i>
+                            <div class = "sub-menu2">
+                                <Ul>
+                                    <li><a href="#">social media marketting</a></li>
+                                    <li><a href="#">main stream media marketting</a></li>
+                                    <li><a href="#">print media marketting</a></li>
+                                </Ul>
+                            </div>
+                            </li>
+                            <li class="hover-me">System Design & development<i class="fa fa-angle-right"></i>
+                                <div class = "sub-menu2">
+                                    <Ul>
+                                        <li><a href="#">simple</a></li>
+                                        <li><a href="#">complex</a></li>
+                                        
+                                    </Ul>
+                            </li>
+                            <li>System Maintainance<i class="fa fa-angle-right"></i></li>
+                            <li>System installation and staff training<i class="fa fa-angle-right"></i> </li>
+    
+                        
+    
+                        
+                        </li>
+                        </ul>
+                     </div></a></li>
+                <li class="active"><a href="#"><i class="fa fa-angellist"></i>investors
+                    <div class = "sub-menu1">
+                        <ul>
+                            <li>Mali Holdings</li>
+                            <li>Evolve tech </li>
+                            <li>Microsoft</li>
+                            
+    
+                        </a>
+                        </li>
+                        </ul>
+                     </div> 
+                </a></li>
+                <li class="active"><a href="#"><i class="fa fa-inr"></i>pricing
+                    <div class = "sub-menu1">
+                        <ul>
+                            <li>Frontend web development = ksh 5,000\-</li>
+                            <li>Backend web development = ksh 7,000\-</li>
+                            <li>System Design = ksh 1,000 - 2,000 </li>
+                            <li>System development = ksh 5,000 - 10,000  </li>
+                            <li>System installation = ksh 1,000 - 2,000 </li>
+                            <li>Staff training = Nagotiable </li>
+                            <li>System Maintainance = ksh 2,000 </li>
+    
+                        </a>
+                        </li>
+                        </ul>
+                     </div> 
+                    
+                </li>
+                <li class="active"><a href="#"><i class="fa fa-phone  "></i>contact
+                    <div class = "sub-menu1">
+                        <ul>
+                            <li>Phone:0702868102</li>
+                            <li>G mail: winaina@gmail.com </li>
+                            <li>P.O Box 240 01100 Kajiado</li>
+                            <li>Twitter @ dennismainachege</li>
+                            <li> Facebook @ dennismainachege</li>
+                            <li>Instagram @ dennismainachege</li>
+    
+                        </a>
+                        </li>
+                        </ul>
+                     </div> 
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>
